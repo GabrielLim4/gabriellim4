@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**GabrielLim4/gabriellim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Gabriel and I'm currently learning Back-End Development with C#/.NET and DEVOPS.
+
+
+---------------------------------------------------------------------
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
