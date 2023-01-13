@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Gabriel and I'm currently learning Back-End Development with C#/.NET and DEVOPS.
+My name is Gabriel and I'm currently learning Back-End Development with C#/.NET and DevOps.
 
 
 ---------------------------------------------------------------------
